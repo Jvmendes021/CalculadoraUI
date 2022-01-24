@@ -11,7 +11,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #333;
+    background-color: rgba(0, 0, 0,0.1); 
 }
 
 .container {
@@ -123,4 +123,6 @@ body {
     border-bottom: 1px solid #fff4;
     border-top: 1px solid #fff4; 
 }
+
+
     
